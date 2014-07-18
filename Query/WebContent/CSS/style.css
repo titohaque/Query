@@ -1,0 +1,148 @@
+#div2{
+	width:500px;
+	height:80px;
+	border:1px solid red;
+}
+
+
+
+.important
+{
+font-weight:bold;
+font-size:xx-large;
+}
+#color
+{
+color:blue;
+}
+#div7{
+	width:114px;
+	height:144px;
+	border:1px solid red;
+	background:url("../images/1_07.jpg") no-repeat;
+	
+	
+}
+
+#panel,#flip,#slide1,#slide2,#slideup,#slidedown
+{
+	width:200px;
+padding:5px;
+text-align:center;
+background-color:yellow;
+border:solid 1px red;
+}
+#panel,#slidup,#slidedown
+{
+	width:300px;
+	height:200px;
+padding:50px;
+display:none;
+}
+
+.class1{
+	width:400px;
+	height:300px;
+	border:1px solid green;
+}
+
+
+
+.newchange{
+	width:400px;
+	height:300px;
+	border:1px solid blue;
+}
+
+
+
+.new{
+	width:250px;
+	height:100px;
+	border:1px solid red;
+	background-color:yellow;
+	color:red;
+}
+
+spanfocus{
+	color:purple;
+	display:none;
+}
+
+#focus{
+	height:50px;
+	border:2px solid red;
+}
+
+#colorchange{
+	color:red;
+}
+
+.style1{
+	width:60px;
+	
+}
+
+
+.name{
+	background-color:none;
+	
+}
+#imgwrap{
+	width:300px;
+	height:190px;
+	border:1px solid black;
+}
+
+#formvalidation{
+	width:600px;
+	height:200px;
+	border:1px solid black;
+	position:relative;
+	background-color:skyblue;
+}
+
+#state{
+	position:absolute;
+	top:20px;
+	right:60px;
+}
+
+#celfer{
+	width:500px;
+	height:100px;
+	border:1px solid red;
+}
+
+#load{
+	width:300px;
+	height:100px;
+	border:1px solid black;
+}
+
+
+#hideshow{
+	width:1300px;
+	height:2400px;
+	border:1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
